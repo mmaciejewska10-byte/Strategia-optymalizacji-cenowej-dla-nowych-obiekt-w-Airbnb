@@ -2,18 +2,29 @@
 Analiza danych Airbnb, aby zrozumieć, które czynniki najbardziej wpływają na ceny wynajmu i propozycja strategii, które pomogą nowym gospodarzom ustalić konkurencyjne ceny swoich ofert.
  	Najważniejsze obserwacje:
  	Typy pokoju:
+  
  	Najwięcej ofert to:
+  
 Entire home/apt — 53 701 ofert (~52%)
+
 Private room — 46 556 ofert (~45%)
+
 Shared room — tylko 2 226 ofert
+
 Hotel room — marginalna liczba (116 ofert)
+
  	Co ciekawe, średnia cena w każdym rodzaju obiektu noclegowego jest bardzo podobna 
  	ok. 625–668 USD.
 Lokalizacja (neighborhood group):
+
  	Najwięcej ofert znajduje się w:
+  
 Manhattan — 43 821 ofert
+
 Brooklyn — 41 842 ofert
+
 Queens — 13 267 ofert
+
 Bronx i Staten Island mają marginalne znaczenie.
  	Ceny w dzielnicach są podobne, na wykresach różnice są prawie nie widoczne, dlatego nie uwzględniłam ich na moim dashboardzie. 
  	Mediany między 580–630 USD
